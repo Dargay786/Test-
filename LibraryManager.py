@@ -5,7 +5,7 @@ books_dict = {}
 
 books_list.append("Python Programming")
 authors_set.add("John Smith")
-books_dict["Python Programming"] = "john Smith"
+books_dict["Python Programming"] = "John Smith"
 
 books_list.append("Data Structures and Algorithms")
 authors_set.add("Jane Doe")
